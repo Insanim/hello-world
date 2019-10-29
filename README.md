@@ -1,2 +1,4 @@
 # hello-world
-Learnig hot to use github
+Learnig how to use github.
+
+It is the right readme file
